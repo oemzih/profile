@@ -1,5 +1,5 @@
 title: Researcher
-url: "https://ankitsultana.com"
+url: "https://oemzih.github.io/profe"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -7,7 +7,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/oemzih"
 footer_text: "thismootsga"
 
 # remote_theme: ankitsultana/researcher@gh-pages
